@@ -1,4 +1,12 @@
+body {
+  background-color: #17343f;
+}
+
 img {
   height: auto;
   max-width: 100%;
+}
+
+p {
+  color: #bdbdc0
 }
