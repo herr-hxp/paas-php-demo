@@ -4,7 +4,7 @@
   </head>
   <body>
     <img src="img/elastx_logo_light.png" />
-      <p>Served by: 
+      <p><b>Served by:</b> 
         <?php
           echo gethostname();
         ?>
