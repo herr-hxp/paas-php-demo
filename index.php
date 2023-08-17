@@ -7,6 +7,7 @@
       <p><b>Served by:</b> 
         <?php
           echo gethostname();
+echo "<br />" . date("Y-m-d H:i:s");
         ?>
     </p>
   </body>
